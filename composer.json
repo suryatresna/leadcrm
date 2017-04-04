@@ -1,0 +1,12 @@
+{
+    "name": "suryatresna/leadcrm",
+    "description": "Integration Lead CRM",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Surya Tresna",
+            "email": "surya.tresna@gmail.com"
+        }
+    ],
+    "require": {}
+}
